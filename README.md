@@ -14,7 +14,7 @@ What's needed to do.
 8. Get number input from user (int) of the length of the difficulty.
 9. Compare number with random number and check if they are the same. 
 10. If not, Give hint (higher or lower) repeat. If same exit loop. Max chances 10.
-11. Exit game.
+11. Exit game. **DONE**
 
 
 
